@@ -37,6 +37,8 @@ Banking System allows a user to conduct financial transactions via the Internet.
 
 # SWOT ANALYSIS
 
+![_get_premium_download_high_resolution_imagedesigned_with_EDIT org](https://user-images.githubusercontent.com/98864424/161673315-fbf70ca6-1104-4a52-a008-cb2e8be34861.jpg)
+
 # 5W'S AND 1H
 
 ## WHEN
