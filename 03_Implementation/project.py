@@ -1,5 +1,12 @@
 """
-project Bank System
+ * @file BankSystem.py
+ * @author Sarang Nasare (sarang.nasare@gmail.com)
+ * @brief Header files
+ * @version 0.1
+ * @date 2022-04-16
+ * 
+ * @copyright Copyright (c) 2022
+ * 
 """
 from os.path import exists
 import os
@@ -206,8 +213,6 @@ class BankSystem:
                 if data[0]==accountname and data[1]==str(pin):
                     file.close()
                     os.remove(filename)
-                    print("Account Balance :",data[2],"\n")
-                    sys.exit()
                 else:
                     print("Enter correct pin")
         else:
