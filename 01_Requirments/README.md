@@ -64,4 +64,7 @@ Where ever there is a need of smart banking system.
 ## HOW
 By making system very easy to use.
 
+-----------------------
+### Next
 
+  [2. Architecture](https://github.com/SarangNasare/BankingSystem/tree/main/02_Architecture)
